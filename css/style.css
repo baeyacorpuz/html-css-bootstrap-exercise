@@ -1,0 +1,37 @@
+html, body {
+	height: 100%;
+}
+
+
+.navbar.navbar-expand-lg {
+	background-color: #343a40 !important;
+}
+
+.navbar-brand {
+	color: white !important;
+}
+
+.nav-link {
+	color: rgba(255,255,255,.5) !important;
+}
+
+.jumbotron.jumbotron-fluid {
+	background-image: url("../images/woman_model.jpg");
+	height: 80%;
+	display: flex;
+	justify-content:center;
+	flex-direction:column
+}
+
+.row {
+	margin: 0;
+}
+
+.brand {
+	max-width: 25%;
+	border-radius: 75%;
+	margin-bottom: 30px;
+	display: block;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
